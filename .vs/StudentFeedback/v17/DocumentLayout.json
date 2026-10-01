@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\.NET\\StudentFeedback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|d:\\coding\\.net\\studentfeedback\\studentfeedback\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|solutionrelative:studentfeedback\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|d:\\coding\\.net\\studentfeedback\\studentfeedback\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|solutionrelative:studentfeedback\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|d:\\coding\\.net\\studentfeedback\\studentfeedback\\views\\feedback\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|solutionrelative:studentfeedback\\views\\feedback\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|d:\\coding\\.net\\studentfeedback\\studentfeedback\\views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|solutionrelative:studentfeedback\\views\\feedback\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|d:\\coding\\.net\\studentfeedback\\studentfeedback\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9413E9E-2C4C-48DB-8634-EFDDD83E64FB}|StudentFeedback\\StudentFeedback.csproj|solutionrelative:studentfeedback\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "StudentFeedback\\Models\\Feedback.cs",
+              "ToolTip": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Models\\Feedback.cs",
+              "RelativeToolTip": "StudentFeedback\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:15:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentFeedback\\Views\\Feedback\\List.cshtml",
+              "ToolTip": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\List.cshtml",
+              "RelativeToolTip": "StudentFeedback\\Views\\Feedback\\List.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T05:59:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentFeedback\\Views\\Feedback\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "StudentFeedback\\Views\\Feedback\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T05:58:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentFeedback\\Views\\Feedback\\Create.cshtml",
+              "ToolTip": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Views\\Feedback\\Create.cshtml",
+              "RelativeToolTip": "StudentFeedback\\Views\\Feedback\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T05:57:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "StudentFeedback\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\Coding\\.NET\\StudentFeedback\\StudentFeedback\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "StudentFeedback\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:44:35.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

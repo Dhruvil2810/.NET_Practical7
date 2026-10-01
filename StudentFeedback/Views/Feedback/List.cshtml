@@ -1,0 +1,31 @@
+﻿
+@*@{
+    ViewBag.Title = "List";
+}*@
+
+<h2>Feedback List</h2>
+
+<table border="1">
+    <tr>
+        <th>Enrollment</th>
+        <th>Name</th>
+        <th>Subject</th>
+        <th>Rating</th>
+        <th>Comment</th>
+    </tr>
+
+    @foreach (var feedback in Model)
+    {
+        <tr>
+            <td>@feedback.EnrollmentNumber</td>
+            <td>@feedback.StudentName</td>
+            <td>@feedback.Subject</td>
+            <td>@feedback.Rating</td>
+            <td>@feedback.Comment</td>
+        </tr>
+    }
+</table>
+
+<br />
+
+@Html.ActionLink("Submit Another FeedBack", "Create", "Feedback")

@@ -1,0 +1,28 @@
+﻿
+@*@{
+    ViewBag.Title = "Create";
+}*@
+@model StudentFeedback.Models.Feedback
+
+@using (Html.BeginForm())
+{
+    <p>
+        Enrollment Number: @Html.TextBoxFor(model => model.EnrollmentNumber)
+    </p>
+
+    <p>
+        Name: @Html.TextBoxFor(model => model.StudentName)
+    </p>
+    <p>
+        Subject: @Html.TextBoxFor(model => model.Subject)
+    </p>
+    <p>
+        Rating: @Html.TextBoxFor(model => model.Rating)
+    </p>
+    <p>
+        Comment: @Html.TextBoxFor(model => model.Comment)
+    </p>
+
+    <p>
+        <input type="submit" value="Submit Feedback" />
+        </p>}
